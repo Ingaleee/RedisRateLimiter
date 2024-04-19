@@ -1,0 +1,162 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\A ACER\\Desktop\\Homework-6\\src\\HomeworkApp.Bll\\HomeworkApp.Bll.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\A ACER\\Desktop\\Homework-6\\src\\HomeworkApp.Bll\\HomeworkApp.Bll.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\A ACER\\Desktop\\Homework-6\\src\\HomeworkApp.Bll\\HomeworkApp.Bll.csproj",
+        "projectName": "HomeworkApp.Bll",
+        "projectPath": "C:\\Users\\A ACER\\Desktop\\Homework-6\\src\\HomeworkApp.Bll\\HomeworkApp.Bll.csproj",
+        "packagesPath": "C:\\Users\\A ACER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A ACER\\Desktop\\Homework-6\\src\\HomeworkApp.Bll\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\A ACER\\Desktop\\Homework-6\\src\\HomeworkApp.Dal\\HomeworkApp.Dal.csproj": {
+                "projectPath": "C:\\Users\\A ACER\\Desktop\\Homework-6\\src\\HomeworkApp.Dal\\HomeworkApp.Dal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\A ACER\\Desktop\\Homework-6\\src\\HomeworkApp.Dal\\HomeworkApp.Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\A ACER\\Desktop\\Homework-6\\src\\HomeworkApp.Dal\\HomeworkApp.Dal.csproj",
+        "projectName": "HomeworkApp.Dal",
+        "projectPath": "C:\\Users\\A ACER\\Desktop\\Homework-6\\src\\HomeworkApp.Dal\\HomeworkApp.Dal.csproj",
+        "packagesPath": "C:\\Users\\A ACER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A ACER\\Desktop\\Homework-6\\src\\HomeworkApp.Dal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "FluentMigrator": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
+            "FluentMigrator.Runner": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
+            "FluentMigrator.Runner.Postgres": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.122, )"
+            },
+            "npgsql": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

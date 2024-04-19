@@ -1,0 +1,15 @@
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Bll\bin\Debug\net7.0\HomeworkApp.Bll.deps.json
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Bll\bin\Debug\net7.0\HomeworkApp.Bll.dll
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Bll\bin\Debug\net7.0\HomeworkApp.Bll.pdb
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Bll\bin\Debug\net7.0\HomeworkApp.Dal.dll
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Bll\bin\Debug\net7.0\HomeworkApp.Dal.pdb
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Bll\obj\Debug\net7.0\HomeworkApp.Bll.csproj.AssemblyReference.cache
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Bll\obj\Debug\net7.0\HomeworkApp.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Bll\obj\Debug\net7.0\HomeworkApp.Bll.AssemblyInfoInputs.cache
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Bll\obj\Debug\net7.0\HomeworkApp.Bll.AssemblyInfo.cs
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Bll\obj\Debug\net7.0\HomeworkApp.Bll.csproj.CoreCompileInputs.cache
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Bll\obj\Debug\net7.0\HomeworkApp.Bll.csproj.CopyComplete
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Bll\obj\Debug\net7.0\HomeworkApp.Bll.dll
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Bll\obj\Debug\net7.0\refint\HomeworkApp.Bll.dll
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Bll\obj\Debug\net7.0\HomeworkApp.Bll.pdb
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Bll\obj\Debug\net7.0\ref\HomeworkApp.Bll.dll

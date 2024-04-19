@@ -1,0 +1,12 @@
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Proto\bin\Debug\net7.0\HomeworkApp.Proto.deps.json
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Proto\bin\Debug\net7.0\HomeworkApp.Proto.dll
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Proto\bin\Debug\net7.0\HomeworkApp.Proto.pdb
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Proto\obj\Debug\net7.0\HomeworkApp.Proto.csproj.AssemblyReference.cache
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Proto\obj\Debug\net7.0\HomeworkApp.Proto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Proto\obj\Debug\net7.0\HomeworkApp.Proto.AssemblyInfoInputs.cache
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Proto\obj\Debug\net7.0\HomeworkApp.Proto.AssemblyInfo.cs
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Proto\obj\Debug\net7.0\HomeworkApp.Proto.csproj.CoreCompileInputs.cache
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Proto\obj\Debug\net7.0\HomeworkApp.Proto.dll
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Proto\obj\Debug\net7.0\refint\HomeworkApp.Proto.dll
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Proto\obj\Debug\net7.0\HomeworkApp.Proto.pdb
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Proto\obj\Debug\net7.0\ref\HomeworkApp.Proto.dll

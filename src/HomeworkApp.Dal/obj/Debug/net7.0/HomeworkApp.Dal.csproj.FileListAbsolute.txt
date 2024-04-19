@@ -1,0 +1,12 @@
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Dal\bin\Debug\net7.0\HomeworkApp.Dal.deps.json
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Dal\bin\Debug\net7.0\HomeworkApp.Dal.dll
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Dal\bin\Debug\net7.0\HomeworkApp.Dal.pdb
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Dal\obj\Debug\net7.0\HomeworkApp.Dal.csproj.AssemblyReference.cache
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Dal\obj\Debug\net7.0\HomeworkApp.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Dal\obj\Debug\net7.0\HomeworkApp.Dal.AssemblyInfoInputs.cache
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Dal\obj\Debug\net7.0\HomeworkApp.Dal.AssemblyInfo.cs
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Dal\obj\Debug\net7.0\HomeworkApp.Dal.csproj.CoreCompileInputs.cache
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Dal\obj\Debug\net7.0\HomeworkApp.Dal.dll
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Dal\obj\Debug\net7.0\refint\HomeworkApp.Dal.dll
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Dal\obj\Debug\net7.0\HomeworkApp.Dal.pdb
+C:\Users\FossW\OneDrive\Рабочий стол\HW 2\homework-master\src\HomeworkApp.Dal\obj\Debug\net7.0\ref\HomeworkApp.Dal.dll
